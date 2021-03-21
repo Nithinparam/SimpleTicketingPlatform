@@ -1,3 +1,1 @@
 # SimpleTicketingPlatform
-# SimpleTicketingPlatform
-# SimpleTicketingPlatform
